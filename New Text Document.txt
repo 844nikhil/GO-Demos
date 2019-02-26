@@ -1,0 +1,15 @@
+https://medium.com/@_jesus_rafael/making-http-client-more-resilient-in-go-d24c66a64bd1=not hystrix circuit breaker
+
+https://marcus.se.net/hystrix-go-intro/=hystrix smallest*
+
+https://github.com/cep21/circuit=circuit 
+
+https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6=hystrix*  
+
+https://trinhhieu668.wordpress.com/2017/10/04/circuit-breaker-pattern-go-implement-part-3/=go breaker
+
+https://github.com/sony/gobreaker/blob/master/example/http_breaker.go=go breaker*
+
+https://docs.microsoft.com/en-us/previous-versions/msp-n-p/dn589784(v=pandp.10)=for theory
+
+https://github.com/eapache/go-resiliency/blob/master/breaker/breaker.go=no idea
